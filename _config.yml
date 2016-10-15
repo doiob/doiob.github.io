@@ -1,9 +1,10 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: Welcome
+description: This is Lalit's home
 logo: favicon.png
-url: kongsong.me
+url: https://githubdoiob.github.io
 rss_url: /feed.xml
+baseurl: "/"
 
 # Jekyll
 permalink:          /blog/:title/
@@ -20,13 +21,13 @@ sass:
   style:            compressed
 
 # Social Links
-email:               hi@kongsong.me
+email:               lalitji@gmail.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+facebook:            
+github:              doiob
+stackoverflow:      
+linkedin:           https://www.linkedin.com/in/lalitsolanki27560
 #xing:              username
 #instagram:          username
 #lastfm:            username
